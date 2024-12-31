@@ -1,0 +1,6 @@
+PyQt6
+pyqtgraph
+numpy
+mobile-env
+gym
+stable-baselines3
